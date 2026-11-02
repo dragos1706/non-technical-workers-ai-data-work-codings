@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and credit Anthropic for the source interviews."
+type: dataset
+title: "Codings of non-technical workers' use of AI on data, derived from the Anthropic Interviewer dataset (workforce split)"
+version: 1.0.0
+date-released: 2026-11-02
+license: CC-BY-4.0
+authors:
+  - family-names: Tomescu
+    given-names: Dragos
+abstract: "Labels for 199 workers who do some data or number work outside a technical job: how they say they use AI on it, what it does for them, what worries them, and what they do about it. Coded by Claude (Anthropic) under the author's direction. Labels only; no interview text."
+references:
+  - type: dataset
+    title: "Anthropic Interviewer dataset"
+    authors:
+      - name: "Anthropic"
+    url: "https://huggingface.co/datasets/Anthropic/AnthropicInterviewer"
+    license: CC-BY-4.0

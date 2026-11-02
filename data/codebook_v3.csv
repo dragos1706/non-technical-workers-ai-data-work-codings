@@ -1,0 +1,36 @@
+column,group,meaning,note
+U0,Use,"Does not use AI on data, or only wishes to",
+U1,Use,Formula or spreadsheet help,
+U2,Use,"Clean, extract, reformat, cross-reference data",
+U3,Use,"Build a model, tracker, template or automation",
+U4,Use,Find patterns or interpret,
+U5,Use,Calculations,
+U6,Use,"AI writes code, macros, flows or queries for them",Power Query counts
+U7,Use,Reports or summaries from data,
+U8,Use,AI checks their own analysis,
+H1,Help,Saves time,
+H2,Help,Builds skill,
+H3,Help,"Does what they could not alone, or gives a starting point",
+H4,Help,Confidence in own findings,Very rare
+H5,Help,Hoped-for benefit,Also coded for some people who do use AI
+C1,Concern,Wrong or silent errors,
+C2,Concern,Checking or explaining costs as much as doing,
+C3,Concern,"Privacy, confidentiality or employer policy",
+C4,Concern,Skill or understanding loss,
+C5,Concern,Human judgement or business context the AI lacks,
+C6,Concern,"Trust, given the stakes",
+C7,Concern,The tool cannot do it,
+C8,Concern,"Does not know what AI can do, or no time to find out",
+P1,Coping step,Checks the AI output before using it,"Renamed from ""check numbers"": not only numbers"
+P2,Coping step,Anonymises or masks data,
+P3,Coping step,"Keeps sensitive or high-stakes work manual, AI for routine",
+P4,Coping step,"Works in steps, fresh chat, refines, adds context",
+P5,Coping step,"Does the work first, AI second",
+P6,Coping step,A human signs off the final numbers,
+P7,Coping step,Asks for sources or references,Very rare
+P8,Coping step,Relies on own expertise to catch errors or interpret output,
+stance,Stance,uses / partly / avoids / wishes,wishes = has not used AI on data but sees potential or wants to; avoids = chooses not to
+avoids_or_wishes,Stance,1 if stance is avoids or wishes,
+pool,Design,core pool = passed the card screen; rescued = re-read from the dropped pile,
+in_main_analysis,Design,1 if in the main analysis (188 people),Version A
+in_version_B,Design,1 if in sensitivity version B (199 people),Version B adds 11 borderline people judged under a looser bar
