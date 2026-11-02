@@ -1,4 +1,5 @@
 # Codings of non-technical workers' use of AI on data
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23896530.svg)](https://doi.org/10.5281/zenodo.23896530)
 
 Version 1, 2 November 2026. Author: Dragos Tomescu. Coding by Claude (Anthropic), under Dragos's direction.
 
@@ -8,7 +9,7 @@ A hand-built set of labels for 199 workers who do some data or number work outsi
 
 The labels describe interviews from the workforce split of the [Anthropic Interviewer dataset](https://huggingface.co/datasets/Anthropic/AnthropicInterviewer) (1,000 of the 1,250 interviews in the release), published by Anthropic under CC-BY. Join on `transcript_id` (for example `work_0002`) to read the original text.
 
-This dataset is released under CC-BY 4.0. If you use it, credit Anthropic for the interviews and this dataset for the labels. Suggested citation: *Tomescu, D. (2026). Codings of non-technical workers' use of AI on data, derived from the Anthropic Interviewer dataset (workforce split). Version 1.*
+This dataset is released under CC-BY 4.0. If you use it, credit Anthropic for the interviews and this dataset for the labels. Suggested citation: *Tomescu, D. (2026). Codings of non-technical workers' use of AI on data, derived from the Anthropic Interviewer dataset (workforce split). Version 1.* https://doi.org/10.5281/zenodo.23896530
 
 ## Files
 
